@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47uivustt9qwbtc9k31s32nsmyp0hxs1b8uwgy90mg&rid=giphy.gif" width="270" height="270"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Visitors&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskiratAtNexG&label=Visitors&color=0e75b6&style=flat" alt="jaskiratAtNexG" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **Data Structures in Java Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/singhjaskirat984](https://github.com/singhjaskirat984)
+- 👨‍💻 All of my projects are available at [https://github.com/jaskiratAtNexG](https://github.com/jaskiratAtNexG)
 
 - 💬 Ask me about **Android Applications**
 
-- 📫 How to reach me **singhjaskirat984@gmail.com**
+- 📫 How to reach me **jaskirat@nexgsolution.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1mOrrdchQ64no0cx76XNou4YE0Hcj50IV/view?usp=sharing)
 
@@ -37,6 +37,6 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=singhjaskirat984&show_icons=true&locale=en" alt="singhjaskirat984" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaskiratAtNexG&show_icons=true&locale=en" alt="jaskiratAtNexG" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjaskirat984&" alt="singhjaskirat984" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaskiratAtNexG4&" alt="jaskiratAtNexG" /></p>
