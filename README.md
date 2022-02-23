@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaskiratAtNexG&show_icons=true&locale=en" alt="jaskiratAtNexG" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaskiratAtNexG4&" alt="jaskiratAtNexG" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaskiratAtNexG4" alt="jaskiratAtNexG" /></p>
